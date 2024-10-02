@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(124, 0, 97);
+    color: rgb(201, 175, 142);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 50%;
+    height: auto;
+    border: 5px salmon;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
